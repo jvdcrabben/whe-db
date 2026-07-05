@@ -1,4 +1,4 @@
-# wheDB
+# wheDB: A Simple Lightweight PHP Database Wrapper as a Zend Replacement
 
 **wheDB** is a small, single-file PHP database wrapper built around `mysqli`.
 
