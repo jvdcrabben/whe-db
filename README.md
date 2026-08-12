@@ -12,6 +12,8 @@ wheDB is useful when you have an older PHP project that once depended on Zend Fr
 
 If your codebase is full of calls like `$db->fetchAll(...)`, `$db->fetchRow(...)`, `$db->insert(...)`, or `$db->quoteInto(...)`, wheDB lets you drop in a single class and keep that code working, backed by plain `mysqli` under the hood.
 
+wheDB stands for "World History Encyclopedia DB", as it was developed by [World History Encyclopedia](https://www.worldhistory.org).
+
 ## Requirements
 
 - PHP 7.4+ (uses typed parameters and nullsafe-friendly patterns)
